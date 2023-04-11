@@ -1,0 +1,9 @@
+Brave Browser https://brave.com/download/
+Discord Custom Rich Presence https://www.customrp.xyz/ (my presets https://github.com/dragonGRaf1312/mycustomrichpresence)
+PreMiD (needs the same named extension for usage with discord) https://premid.app/downloads https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?hl=e
+Discord https://discord.com/
+Eatrumpet (customise your sound for each program) (has a microsoft Store page) https://github.com/File-New-Project/EarTrumpet
+Greenshot (screenshoter) https://getgreenshot.org/downloads/
+Medal (Game Clipper) https://medal.tv/download
+Steam Customizer https://steamcustomizer.com/download
+
