@@ -2,12 +2,14 @@
 Just a page that gives examples what programs a pc would need etc (and if i ever need to reset my pc i can just get the stuff fast from here :D
 programs, extentions plugins etc
 
-in this readme there will be a few recommendations but will add more in the future and make more specific in some folders
-
 ## Here some programs/websites i use when setting up a PC or just in general
 * https://ninite.com/ *Install and Update All Your Programs at Once* (very limited sadly) 
 my link: https://ninite.com/7zip-discord-filezilla-greenshot-notepadplusplus-putty-pythonx3-qbittorrent-steam-vlc-vscode/ninite.exe
 
-(will be adding a Index sometime because why not)
-
-Added General and Daily Use programs and Extentions added in txt files easy accessable links (will try to keep them updated incase something changes)
+### Index
+#### General Use
+- Programs.txt ; Programs i use daily + i recommend 
+#### Stuff i use daily
+- Extentions.txt ; Extentions i use daily
+- Programs.txt ; Programs i use daily
+- how to watch yt without ads and self promo etc.txt ; Tips how to watch Youtube on browser and Android without Ads and sponsoring annoying reminders etc
