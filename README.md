@@ -8,6 +8,6 @@ in this readme there will be a few recommendations but will add more in the futu
 * https://ninite.com/ *Install and Update All Your Programs at Once* (very limited sadly) 
 my link: https://ninite.com/7zip-discord-filezilla-greenshot-notepadplusplus-putty-pythonx3-qbittorrent-steam-vlc-vscode/ninite.exe
 
-adding how to watch youtube on pc without ads, sponsor ship and other annoying stuff parts (soon)
+(will be adding a Index sometime because why not)
 
 Added General and Daily Use programs and Extentions added in txt files easy accessable links (will try to keep them updated incase something changes)
