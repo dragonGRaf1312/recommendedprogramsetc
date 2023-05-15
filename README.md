@@ -13,3 +13,8 @@ programs, extentions plugins etc
 
 #### Free Stuff
 - Free VPS linux.txt ; Link to a free and good performance VPS/Server
+
+
+
+If you need support with anything i support Join my new Discord Server:
+https://discord.gg/GVB9m7RjGG
