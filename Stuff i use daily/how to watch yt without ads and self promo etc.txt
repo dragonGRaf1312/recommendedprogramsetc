@@ -1,0 +1,9 @@
+PC Browser: 
+1. SponsorBlock for YouTube https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en
+has a lot of options what kind of parts u want to be skipped or not, if something isnt added yet for a video/channel u can add it in with a new button
+2. uBlock Origin https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm 
+Best ad blocker 
+
+Mobile:
+Vanced https://vancedmanager.com/youtube-vanced-apk/
+very buggy bc discontinued
