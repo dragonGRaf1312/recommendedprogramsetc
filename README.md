@@ -17,4 +17,4 @@ programs, extentions plugins etc
 
 
 If you need support with anything i support Join my new Discord Server:
-https://discord.gg/GVB9m7RjGG
+https://discord.gg/PTxZNXGVPJ
