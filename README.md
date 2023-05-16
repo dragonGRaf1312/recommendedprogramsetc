@@ -1,5 +1,5 @@
 # Recommended Programs etc
-Just a page that gives recommendations what programs a pc would need. programs, extentions plugins etc
+Just a page that gives recommendations what programs, extentions and plugins a pc would need.
 
 ### Index
 #### General Use
